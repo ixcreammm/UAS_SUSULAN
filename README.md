@@ -25,7 +25,7 @@ data = soup.find("div", "content-inner").text.strip()
 print(data)
 
 ![gambar](ScreenShot/satu.png)
-
+ 
 - Berikut adalah outputnya
 ![gambar](ScreenShot/dua.png)
 
